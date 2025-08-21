@@ -20,6 +20,5 @@ Este proyecto realiza el análisis y seguimiento de movimientos en barras asimé
 
 ```
 
-```
-[](/output/video_out_.mp4)
-```
+![Video](./output/video_out_.mp4)
+
