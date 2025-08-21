@@ -19,4 +19,4 @@ Este proyecto realiza el análisis y seguimiento de movimientos en barras asimé
 └── README.md                               # Presentación del repositorio.            
 
 ```
-[](/output/gaph_mov.png)
+[](/output/video_out_.mp4)
