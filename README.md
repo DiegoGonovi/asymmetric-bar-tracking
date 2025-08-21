@@ -20,5 +20,5 @@ Este proyecto realiza el análisis y seguimiento de movimientos en barras asimé
 
 ```
 
-![Video](./output/video_out_.mp4)
+https://github.com/user-attachments/assets/b4ad2c26-1f92-44d4-9101-30d136a9bdce
 
