@@ -39,8 +39,8 @@ https://github.com/user-attachments/assets/b4ad2c26-1f92-44d4-9101-30d136a9bdce
 
 ## 👥 Autores
 - Diego González Oviño
-- Paula Peña González
+- Paula Pena González
 
 ## 📄 Licencia
-Proyecto académico de la Universidad Rey Juan Carlos
+Proyecto académico de la Universidad Rey Juan Carlos.
 
