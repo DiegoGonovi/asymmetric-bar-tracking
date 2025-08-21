@@ -19,4 +19,7 @@ Este proyecto realiza el análisis y seguimiento de movimientos en barras asimé
 └── README.md                               # Presentación del repositorio.            
 
 ```
+
+```
 [](/output/video_out_.mp4)
+```
